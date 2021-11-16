@@ -7,3 +7,5 @@ function collect_ratings() {
         average: 0
     }
 }
+
+const elements = document.querySelectorAll('.rating');
